@@ -1,0 +1,86 @@
+#start{
+	background-image: url('images/start.jpg');
+	background-position: center;
+	background-size: cover;
+}.clr{
+	background: rgba(249, 249, 249, .4);
+	width: 50%;
+	height: 50%;
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	margin: auto;
+}#adminLogin{
+	background-image: url('images/loginFrame.jpg');
+	background-position: center;
+	background-size: cover;
+}.loginFrame{
+	background: rgba(149, 249, 99, .6);
+	width: 40%;
+	height: 45%;
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	margin: auto;
+	padding: 10px;
+}#adminNav{
+	background-image: url('images/adminNav1.jpg');
+	background-position: center;
+	background-size: cover;
+}.content{
+	width: 90%;
+	height: 90%;
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	margin: auto;
+	padding-top: 10px;
+}.row1{
+	background-image: url('images/upper1.jpg');
+	width: 100%;
+	height: 45%;
+	background-size: cover;
+	background-position: center center;
+}.row2{
+    
+}ul>li:hover{
+    background-color: #515F5F;
+    transition-duration: 2s;
+}.row3{
+	background: #F5F3ED;
+	padding: 10px;
+	margin-bottom: 30px;
+}.question{
+	width: 80%;
+	padding: 10px;
+	background: rgba(240, 40, 66, .4);
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	margin: auto;
+}#user{
+	background-image: url('images/user1.jpeg');
+}.userContent{
+	background-image: url('images/user1.jpeg');
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+}.uContent{
+	background: rgba(249, 249, 249, .7);
+	width: 70%;
+	height: 60%;
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	margin: auto;
+	padding: 10px;
+}
